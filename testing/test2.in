@@ -1,0 +1,27 @@
+# Check that set works.
+java -ea loa.Main
+None
+===#1===
+manual white
+manual black
+start
+dump
+b1-d3
+dump
+a3-d3
+dump
+c1-b2
+dump
+d3-b1
+dump
+g1-b1
+dump
+h3-f1
+dump
+c8-a6
+dump
+h6-f8
+dump
+e1-e3
+dump
+quit

@@ -1,0 +1,9 @@
+# Check that the game can run automated and finish with a winner.
+java -ea loa.Main
+None
+===#1===
+auto white
+auto black
+seed 129384
+start
+%bw

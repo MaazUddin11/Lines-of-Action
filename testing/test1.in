@@ -1,0 +1,22 @@
+# Check that set works.
+java -ea loa.Main
+None
+===#1===
+manual white
+start
+dump
+set c3 b
+dump
+set d7 w
+dump
+set f5 b
+dump
+set c1 e
+dump
+set d8 e
+dump
+set h4 e
+dump
+set a3 b
+dump
+quit
